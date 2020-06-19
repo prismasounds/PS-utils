@@ -8,4 +8,4 @@ It takes in input the midi range, number of round robins and dynamic range label
 ## Using with Reaper's scripts
 In particular, the output is made so it can be used with Reaper's `X-Raym_Rename selected takes from CSV input.lua` script.
 
-![](https://giphy.com/gifs/Zatj2MU59ZHQ0nABTZ)
+![](rsc/snxraym.gif)
